@@ -1,8 +1,10 @@
 # Syllabus
 
+<!---
 ## Instructor contact info
 
 TBD
+--->
 
 ## Schedule
 
@@ -10,9 +12,11 @@ Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. 
 
 Lab is from 1 PM to 5 PM Monday-Thursday and 9 AM to 5 PM on Friday.
 
+<!---
 ### Office hours and one-on-one instruction
 
 TBD
+--->
 
 ## Topics
 
