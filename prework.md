@@ -6,9 +6,9 @@ There are quite a few tasks and learning topics that are necessary to take care 
 
 We don’t believe you can really learn to program by watching a few videos and answering some questions (and if you believed that, you probably wouldn’t be coming to The Iron Yard). However, skill acquisition takes a long time, and this work will help introduce you to some of the ideas and skills that will form the foundation of your in-person learning experience.
 
-This work should be completed by August 17, one work before class begins. I will assume that you have completed this work before class, so you will likely feel very far behind if you haven’t finished when we start class on August 24. If you have ANY questions at all, please reach out to me at <james.allen@theironyard.com>.
+This work should be completed by March 21, one work before class begins. I will assume that you have completed this work before class, so you will likely feel very far behind if you haven’t finished when we start class on March 28. If you have ANY questions at all, please reach out to me at <james.allen@theironyard.com>.
 
-In order to complete some of these tasks, you will need to [register for an account with Treehouse](http://referrals.trhou.se/clintondreisbach). Treehouse is free for 14 days (which should be more than enough to finish the required courses), and is $25/month after the trial. You will not be required to use Treehouse after completing the prework, but you are welcome to continue your subscription if you find it valuable.
+In order to complete some of these tasks, you will need to [register for an account with Treehouse](http://referrals.trhou.se/clintondreisbach). Treehouse is free for 7 days (which should be enough to finish the required courses), and is $25/month after the trial. You will not be required to use Treehouse after completing the prework, but you are welcome to continue your subscription if you find it valuable.
 
 ## Objectives
 
@@ -33,7 +33,7 @@ GitHub is a web-based hosting and communication service for software development
 1. Sign up for a free account at [GitHub](https://github.com/join).
 1. Make sure to add a profile picture and your full name, since this will help me learn your name and face.
 1. Follow the instructions to [Generate an SSH key](https://help.github.com/articles/generating-ssh-keys/), including adding the SSH key to your GitHub account and testing the connection.
-1. Make sure you've completed the steps on the [Mac setup]({filename}/pages/mac.md) page before proceeding - you must install the XCode command-line tools for the next few commands to work.
+1. Make sure you've completed the steps on the [Mac setup](mac.md) page before proceeding - you must install the XCode command-line tools for the next few commands to work.
 1. Configure some global git settings at the command line by running the following commands, replacing **Your Name** and **you@example.com** with your own name and email address that you use for GitHub:
 ```bash
 $ git config --global user.name "Your Name"
@@ -45,7 +45,7 @@ $ git config --global core.excludesfile ~/.gitignore
 
 ### Treehouse
 
-Sign up for an account at [Treehouse](http://teamtreehouse.com). Signing up does require a credit card, but you will have a free trial for the first 14 days. If you do not have any access to a credit card, that is ok! Let me know via email and I can help you make that happen.
+Sign up for an account at [Treehouse](http://teamtreehouse.com). Signing up does require a credit card, but you will have a free trial for the first 7 days. If you do not have any access to a credit card, that is ok! Let me know via email and I can help you make that happen.
 
 ## Topic 1: Your Brain
 
@@ -56,7 +56,7 @@ Read the following articles:
 
 After reading the articles, please fill out the following survey:
 
-* [Prework Survey 1](http://goo.gl/forms/SXYv78xfQm)
+* [Prework Survey 1](http://goo.gl/forms/nKxyR7IELb)
 
 ## Topic 2: Python
 
@@ -101,7 +101,7 @@ Almost done. Although we're not going to talk about them in the first few weeks 
 
 Once you have finished the prework given above, complete the following survey:
 
-* [Prework Survey 2](http://goo.gl/forms/0pyorUXkgW)
+* [Prework Survey 2](http://goo.gl/forms/c9oeHokNfE)
 
 Whew, you did it. Now, your only remaining assignment is to get some sleep before class starts. You're going to need it!
 
