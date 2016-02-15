@@ -16,10 +16,10 @@ As soon as possible after receiving your Mac, run through the following steps. I
 
 Again, we want to have all of these kinks worked out in advance, so PLEASE e-mail if things don't work as described below.
 
-* Install **OS X Yosemite**, if you haven’t already.
+* Makes sure you are running **OS X Yosemite** (10.10) or **El Capitan** (10.11).
     1. You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/).
-    1. Download the Yosemite upgrade from the Apple Store: [download here](https://itunes.apple.com/us/app/os-x-yosemite/id915041082?mt=12).
-    1. Double-click "Install OS X Yosemite” to begin installation.
+    1. Download the El Capitan upgrade from the Apple Store: [download here](https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117?mt=12).
+    1. Double-click "Install OS X El Capitan” to begin installation.
 
   **WARNING:** The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
 
@@ -30,7 +30,7 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
 
 * Install Homebrew and additional tools
     1. Open up Terminal.app.
-    1. Run `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` and follow all the prompts.
+    1. Run `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` and follow all the prompts.
     1. Run `brew doctor`
     1. Run `brew install readline git python3 direnv tree wget trash bash-completion`
     1. Run `sudo easy_install pip`
@@ -44,9 +44,3 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
     1. Once Atom has started, click the Atom menu and run **Install Shell Commands**.
 
 * Install [Google Chrome](https://www.google.com/intl/en/chrome/browser/)
-
-* Install some helpful dotfiles and terminal
-    1. Open up Terminal.app.
-    1. Run `git clone https://github.com/tiyd-python-2015-08/dotfiles.git`
-    1. Run `./dotfiles/bin/dfm install`
-    1. Exit Terminal.app and reopen it for the changes to take effect.
