@@ -24,7 +24,7 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE e-mai
   **WARNING:** The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
 
  * Install XCode Command Line Tools
-    1. Open up Terminal.app. If you have any trouble here, go through [the command-line prework](/prework/exercises.html#the-command-line).
+    1. Open up Terminal.app. If you have any trouble here, go through [the command-line prework](prework.md).
     1. Run `xcode-select --install` and click the **Install** button.
     1. Follow all prompts to get the command line tools installed.
 
